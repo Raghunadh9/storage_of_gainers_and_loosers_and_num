@@ -1,6 +1,5 @@
 import express from "express";
 import cors from "cors";
-import fs from "fs";
 const app = express();
 app.use(cors());
 const PORT = 5003 || process.env.PORT;
@@ -28,5 +27,5 @@ app.get("/num_data", async (req, res) => {
 });
 
 app.listen(PORT, (req, res) => {
-  console.log("listening on port 5003");
+  console.log("listening on port 5002");
 });
