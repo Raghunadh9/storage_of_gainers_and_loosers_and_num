@@ -5,6 +5,7 @@ const app = express();
 app.use(cors());
 const PORT = 5003 || process.env.PORT;
 app.get("/", async (req, res) => {
+  // hai
   try {
     // Read the contents of the data.json file
     const fileContents = fs.readFileSync("./data.json", "utf-8");
