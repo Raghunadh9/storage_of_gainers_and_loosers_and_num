@@ -1,5 +1,21 @@
 [
   {
+    "name_g1_block": "<tr><td>&nbsp;</td><td>&nbsp;</td><td>32</td></tr><tr><td>&nbsp;</td><td>45</td><td>56</td></tr><tr><td>24</td><td>21</td><td>11</td></tr><tr><td>ORIENT</td><td>PRESS</td><td>LTD</td></tr>",
+    "name_g2_block": "<tr><td>&nbsp;</td><td>&nbsp;</td><td>32</td></tr><tr><td>&nbsp;</td><td>45</td><td>56</td></tr><tr><td>24</td><td>21</td><td>11</td></tr><tr><td>ORIENT</td><td>PRESS</td><td>LTD</td></tr>",
+    "name_g3_block": "<tr><td>&nbsp;</td><td>&nbsp;</td><td>32</td></tr><tr><td>&nbsp;</td><td>59</td><td>68</td></tr><tr><td>36</td><td>23</td><td>9</td></tr><tr><td>ORIENT</td><td>PRESS</td><td>LTD</td></tr>",
+    "tot_letters": 14,
+    "g1tot": 56,
+    "g2tot": 56,
+    "g3tot": 68,
+    "g1vtot": 18,
+    "g2vtot": 18,
+    "g3vtot": 25,
+    "g1nettot": 38,
+    "g2nettot": 38,
+    "g3nettot": 43,
+    "dob_tot": 0
+  },
+  {
     "name_g1_block": "<tr><td>&nbsp;</td><td>&nbsp;</td><td>64</td></tr><tr><td>&nbsp;</td><td>61</td><td>72</td></tr><tr><td>8</td><td>53</td><td>11</td></tr><tr><td>ASM</td><td>TECHNOLOGIES</td><td>LTD</td></tr>",
     "name_g2_block": "<tr><td>&nbsp;</td><td>&nbsp;</td><td>62</td></tr><tr><td>&nbsp;</td><td>59</td><td>70</td></tr><tr><td>8</td><td>51</td><td>11</td></tr><tr><td>ASM</td><td>TECHNOLOGIES</td><td>LTD</td></tr>",
     "name_g3_block": "<tr><td>&nbsp;</td><td>&nbsp;</td><td>69</td></tr><tr><td>&nbsp;</td><td>66</td><td>75</td></tr><tr><td>6</td><td>60</td><td>9</td></tr><tr><td>ASM</td><td>TECHNOLOGIES</td><td>LTD</td></tr>",
