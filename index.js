@@ -16,7 +16,16 @@ app.get("/", async (req, res) => {
     res.status(500).json({ error: error });
   }
 });
-
+app.get("/advanced_num", async (req, res) => {
+  try {
+    const fileContents_num_advanced = fs.readFileSync("./advanced_num_json.json", "utf-8");
+    const jsonData_num_advanced  = JSON.parse(fileContents_num_advanced);
+    res.status(200).json(jsonData_num);
+  } catch (error) {
+    console.error(error);
+    res.status(500).json({ error: error });
+  }
+});
 app.get("/num_data", async (req, res) => {
   try {
     const fileContents_num = fs.readFileSync("./data_num.json", "utf-8");
