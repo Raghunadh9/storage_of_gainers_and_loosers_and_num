@@ -17,8 +17,6 @@ app.get("/", async (req, res) => {
   }
 });
 
-
-
 app.get("/num_data", async (req, res) => {
   try {
     const fileContents_num = fs.readFileSync("./data_num.json", "utf-8");
