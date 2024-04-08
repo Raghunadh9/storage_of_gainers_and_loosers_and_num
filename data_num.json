@@ -30140,28 +30140,6 @@
     }
   },
   {
-    "symbol": "GOLDTECH",
-    "ltp": 130.2,
-    "percent": -5,
-    "volume": 3759,
-    "num_data": {
-      "name_g1_block": "<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>49</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>66</td><td>88</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>79</td><td>106</td><td>128</td></tr><tr><td>&nbsp;</td><td>54</td><td>93</td><td>120</td><td>142</td></tr><tr><td>14</td><td>40</td><td>39</td><td>27</td><td>22</td></tr><tr><td>AION</td><td>INFOTECH</td><td>SOLUTIONS</td><td>PRIVATE</td><td>LIMITED</td></tr>",
-      "name_g2_block": "<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>49</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>66</td><td>88</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>77</td><td>104</td><td>126</td></tr><tr><td>&nbsp;</td><td>52</td><td>91</td><td>118</td><td>140</td></tr><tr><td>14</td><td>38</td><td>39</td><td>27</td><td>22</td></tr><tr><td>AION</td><td>INFOTECH</td><td>SOLUTIONS</td><td>PRIVATE</td><td>LIMITED</td></tr>",
-      "name_g3_block": "<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>73</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>73</td><td>109</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>80</td><td>117</td><td>153</td></tr><tr><td>&nbsp;</td><td>65</td><td>101</td><td>138</td><td>174</td></tr><tr><td>21</td><td>44</td><td>36</td><td>37</td><td>36</td></tr><tr><td>AION</td><td>INFOTECH</td><td>SOLUTIONS</td><td>PRIVATE</td><td>LIMITED</td></tr>",
-      "tot_letters": 35,
-      "g1tot": 142,
-      "g2tot": 140,
-      "g3tot": 174,
-      "g1vtot": 57,
-      "g2vtot": 57,
-      "g3vtot": 98,
-      "g1nettot": 85,
-      "g2nettot": 83,
-      "g3nettot": 76,
-      "dob_tot": 0
-    }
-  },
-  {
     "symbol": "VERTEX",
     "ltp": 3.23,
     "percent": -5,
