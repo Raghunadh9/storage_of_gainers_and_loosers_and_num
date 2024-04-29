@@ -22,6 +22,28 @@
     }
   },
   {
+    "symbol": "AGRITECH",
+    "ltp": 215.45,
+    "percent": 19.99,
+    "volume": 30180,
+    "num_data": {
+      "name_g1_block": "<tr><td>&nbsp;</td><td>37</td></tr><tr><td>26</td><td>11</td></tr><tr><td>AGRITECH</td><td>LTD</td></tr>",
+      "name_g2_block": "<tr><td>&nbsp;</td><td>35</td></tr><tr><td>24</td><td>11</td></tr><tr><td>AGRITECH</td><td>LTD</td></tr>",
+      "name_g3_block": "<tr><td>&nbsp;</td><td>53</td></tr><tr><td>44</td><td>9</td></tr><tr><td>AGRITECH</td><td>LTD</td></tr>",
+      "tot_letters": 11,
+      "g1tot": 37,
+      "g2tot": 35,
+      "g3tot": 53,
+      "g1vtot": 7,
+      "g2vtot": 7,
+      "g3vtot": 15,
+      "g1nettot": 30,
+      "g2nettot": 28,
+      "g3nettot": 38,
+      "dob_tot": 0
+    }
+  },
+  {
     "symbol": "DSSL",
     "ltp": 936.55,
     "percent": 19.7,
@@ -68372,6 +68394,28 @@
       "g1nettot": 22,
       "g2nettot": 22,
       "g3nettot": 18,
+      "dob_tot": 0
+    }
+  },
+  {
+    "symbol": "TATAELXSI",
+    "ltp": 7669.85,
+    "percent": -0.23,
+    "volume": 4443,
+    "num_data": {
+      "name_g1_block": "<tr><td>&nbsp;</td><td>&nbsp;</td><td>40</td></tr><tr><td>&nbsp;</td><td>28</td><td>50</td></tr><tr><td>10</td><td>18</td><td>22</td></tr><tr><td>TATA</td><td>ELXSI</td><td>LIMITED</td></tr>",
+      "name_g2_block": "<tr><td>&nbsp;</td><td>&nbsp;</td><td>39</td></tr><tr><td>&nbsp;</td><td>27</td><td>49</td></tr><tr><td>10</td><td>17</td><td>22</td></tr><tr><td>TATA</td><td>ELXSI</td><td>LIMITED</td></tr>",
+      "name_g3_block": "<tr><td>&nbsp;</td><td>&nbsp;</td><td>60</td></tr><tr><td>&nbsp;</td><td>30</td><td>66</td></tr><tr><td>6</td><td>24</td><td>36</td></tr><tr><td>TATA</td><td>ELXSI</td><td>LIMITED</td></tr>",
+      "tot_letters": 16,
+      "g1tot": 50,
+      "g2tot": 49,
+      "g3tot": 66,
+      "g1vtot": 15,
+      "g2vtot": 15,
+      "g3vtot": 39,
+      "g1nettot": 35,
+      "g2nettot": 34,
+      "g3nettot": 27,
       "dob_tot": 0
     }
   },
