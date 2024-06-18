@@ -4510,6 +4510,28 @@
     }
   },
   {
+    "symbol": "TELOGICA",
+    "ltp": 13.56,
+    "percent": 4.95,
+    "volume": 39033,
+    "num_data": {
+      "name_g1_block": "<tr><td>&nbsp;</td><td>48</td></tr><tr><td>26</td><td>22</td></tr><tr><td>TELOGICA</td><td>LIMITED</td></tr>",
+      "name_g2_block": "<tr><td>&nbsp;</td><td>49</td></tr><tr><td>27</td><td>22</td></tr><tr><td>TELOGICA</td><td>LIMITED</td></tr>",
+      "name_g3_block": "<tr><td>&nbsp;</td><td>72</td></tr><tr><td>36</td><td>36</td></tr><tr><td>TELOGICA</td><td>LIMITED</td></tr>",
+      "tot_letters": 15,
+      "g1tot": 48,
+      "g2tot": 49,
+      "g3tot": 72,
+      "g1vtot": 21,
+      "g2vtot": 21,
+      "g3vtot": 44,
+      "g1nettot": 27,
+      "g2nettot": 28,
+      "g3nettot": 28,
+      "dob_tot": 0
+    }
+  },
+  {
     "symbol": "INCREDIBLE",
     "ltp": 38.99,
     "percent": 4.95,
@@ -37735,19 +37757,19 @@
     "percent": -4.11,
     "volume": 115725,
     "num_data": {
-      "name_g1_block": "<tr><td>&nbsp;</td><td>&nbsp;</td><td>49</td></tr><tr><td>&nbsp;</td><td>51</td><td>73</td></tr><tr><td>24</td><td>27</td><td>22</td></tr><tr><td>ORIENT</td><td>TRADELINK</td><td>LIMITED</td></tr>",
-      "name_g2_block": "<tr><td>&nbsp;</td><td>&nbsp;</td><td>49</td></tr><tr><td>&nbsp;</td><td>51</td><td>73</td></tr><tr><td>24</td><td>27</td><td>22</td></tr><tr><td>ORIENT</td><td>TRADELINK</td><td>LIMITED</td></tr>",
-      "name_g3_block": "<tr><td>&nbsp;</td><td>&nbsp;</td><td>76</td></tr><tr><td>&nbsp;</td><td>76</td><td>112</td></tr><tr><td>36</td><td>40</td><td>36</td></tr><tr><td>ORIENT</td><td>TRADELINK</td><td>LIMITED</td></tr>",
-      "tot_letters": 22,
-      "g1tot": 73,
-      "g2tot": 73,
-      "g3tot": 112,
-      "g1vtot": 27,
-      "g2vtot": 27,
-      "g3vtot": 58,
-      "g1nettot": 46,
-      "g2nettot": 46,
-      "g3nettot": 54,
+      "name_g1_block": "<tr><td>&nbsp;</td><td>&nbsp;</td><td>34</td></tr><tr><td>&nbsp;</td><td>36</td><td>58</td></tr><tr><td>24</td><td>12</td><td>22</td></tr><tr><td>ORIENT</td><td>SPA</td><td>LIMITED</td></tr>",
+      "name_g2_block": "<tr><td>&nbsp;</td><td>&nbsp;</td><td>34</td></tr><tr><td>&nbsp;</td><td>36</td><td>58</td></tr><tr><td>24</td><td>12</td><td>22</td></tr><tr><td>ORIENT</td><td>SPA</td><td>LIMITED</td></tr>",
+      "name_g3_block": "<tr><td>&nbsp;</td><td>&nbsp;</td><td>45</td></tr><tr><td>&nbsp;</td><td>45</td><td>81</td></tr><tr><td>36</td><td>9</td><td>36</td></tr><tr><td>ORIENT</td><td>SPA</td><td>LIMITED</td></tr>",
+      "tot_letters": 16,
+      "g1tot": 58,
+      "g2tot": 58,
+      "g3tot": 81,
+      "g1vtot": 21,
+      "g2vtot": 21,
+      "g3vtot": 44,
+      "g1nettot": 37,
+      "g2nettot": 37,
+      "g3nettot": 37,
       "dob_tot": 0
     }
   },
@@ -55132,28 +55154,6 @@
     }
   },
   {
-    "symbol": "ONTIC",
-    "ltp": 0.57,
-    "percent": -1.72,
-    "volume": 136058,
-    "num_data": {
-      "name_g1_block": "<tr><td>&nbsp;</td><td>&nbsp;</td><td>57</td></tr><tr><td>&nbsp;</td><td>54</td><td>76</td></tr><tr><td>19</td><td>35</td><td>22</td></tr><tr><td>ONTIC</td><td>FINSERVE</td><td>LIMITED</td></tr>",
-      "name_g2_block": "<tr><td>&nbsp;</td><td>&nbsp;</td><td>57</td></tr><tr><td>&nbsp;</td><td>55</td><td>77</td></tr><tr><td>20</td><td>35</td><td>22</td></tr><tr><td>ONTIC</td><td>FINSERVE</td><td>LIMITED</td></tr>",
-      "name_g3_block": "<tr><td>&nbsp;</td><td>&nbsp;</td><td>80</td></tr><tr><td>&nbsp;</td><td>69</td><td>105</td></tr><tr><td>25</td><td>44</td><td>36</td></tr><tr><td>ONTIC</td><td>FINSERVE</td><td>LIMITED</td></tr>",
-      "tot_letters": 20,
-      "g1tot": 76,
-      "g2tot": 77,
-      "g3tot": 105,
-      "g1vtot": 26,
-      "g2vtot": 26,
-      "g3vtot": 57,
-      "g1nettot": 50,
-      "g2nettot": 51,
-      "g3nettot": 48,
-      "dob_tot": 0
-    }
-  },
-  {
     "symbol": "NATCAPSUQ",
     "ltp": 307,
     "percent": -1.71,
@@ -64223,9 +64223,9 @@
     "percent": -0.72,
     "volume": 690806,
     "num_data": {
-      "name_g1_block": "<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>34</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>25</td><td>47</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>15</td><td>27</td><td>49</td></tr><tr><td>&nbsp;</td><td>9</td><td>22</td><td>34</td><td>56</td></tr><tr><td>7</td><td>2</td><td>13</td><td>12</td><td>22</td></tr><tr><td>O</td><td>K</td><td>PLAY</td><td>INDIA</td><td>LIMITED</td></tr>",
-      "name_g2_block": "<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>34</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>25</td><td>47</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>15</td><td>27</td><td>49</td></tr><tr><td>&nbsp;</td><td>9</td><td>22</td><td>34</td><td>56</td></tr><tr><td>7</td><td>2</td><td>13</td><td>12</td><td>22</td></tr><tr><td>O</td><td>K</td><td>PLAY</td><td>INDIA</td><td>LIMITED</td></tr>",
-      "name_g3_block": "<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>64</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>46</td><td>82</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>20</td><td>48</td><td>84</td></tr><tr><td>&nbsp;</td><td>8</td><td>26</td><td>54</td><td>90</td></tr><tr><td>6</td><td>2</td><td>18</td><td>28</td><td>36</td></tr><tr><td>O</td><td>K</td><td>PLAY</td><td>INDIA</td><td>LIMITED</td></tr>",
+      "name_g1_block": "<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>34</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>25</td><td>47</td></tr><tr><td>&nbsp;</td><td>22</td><td>34</td><td>56</td></tr><tr><td>9</td><td>13</td><td>12</td><td>22</td></tr><tr><td>OK</td><td>PLAY</td><td>INDIA</td><td>LIMITED</td></tr>",
+      "name_g2_block": "<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>34</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>25</td><td>47</td></tr><tr><td>&nbsp;</td><td>22</td><td>34</td><td>56</td></tr><tr><td>9</td><td>13</td><td>12</td><td>22</td></tr><tr><td>OK</td><td>PLAY</td><td>INDIA</td><td>LIMITED</td></tr>",
+      "name_g3_block": "<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>64</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>46</td><td>82</td></tr><tr><td>&nbsp;</td><td>26</td><td>54</td><td>90</td></tr><tr><td>8</td><td>18</td><td>28</td><td>36</td></tr><tr><td>OK</td><td>PLAY</td><td>INDIA</td><td>LIMITED</td></tr>",
       "tot_letters": 18,
       "g1tot": 56,
       "g2tot": 56,
@@ -69472,28 +69472,6 @@
       "g1nettot": 78,
       "g2nettot": 75,
       "g3nettot": 93,
-      "dob_tot": 0
-    }
-  },
-  {
-    "symbol": "NATIONALUM",
-    "ltp": 151.7,
-    "percent": -0.13,
-    "volume": 732315,
-    "num_data": {
-      "name_g1_block": "<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>20</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>40</td><td>51</td></tr><tr><td>&nbsp;</td><td>58</td><td>67</td><td>78</td></tr><tr><td>27</td><td>31</td><td>9</td><td>11</td></tr><tr><td>NATIONAL</td><td>ALUMINIUM</td><td>CO</td><td>LTD</td></tr>",
-      "name_g2_block": "<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>21</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>41</td><td>52</td></tr><tr><td>&nbsp;</td><td>58</td><td>68</td><td>79</td></tr><tr><td>27</td><td>31</td><td>10</td><td>11</td></tr><tr><td>NATIONAL</td><td>ALUMINIUM</td><td>CO</td><td>LTD</td></tr>",
-      "name_g3_block": "<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>18</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>50</td><td>59</td></tr><tr><td>&nbsp;</td><td>73</td><td>82</td><td>91</td></tr><tr><td>32</td><td>41</td><td>9</td><td>9</td></tr><tr><td>NATIONAL</td><td>ALUMINIUM</td><td>CO</td><td>LTD</td></tr>",
-      "tot_letters": 22,
-      "g1tot": 78,
-      "g2tot": 79,
-      "g3tot": 91,
-      "g1vtot": 32,
-      "g2vtot": 32,
-      "g3vtot": 48,
-      "g1nettot": 46,
-      "g2nettot": 47,
-      "g3nettot": 43,
       "dob_tot": 0
     }
   },
